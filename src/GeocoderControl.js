@@ -49,7 +49,7 @@ export default {
       type: String,
       default: null
     },
-    country: {
+    countries: {
       type: String,
       default: null
     },
